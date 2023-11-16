@@ -1,5 +1,5 @@
 # Hello World! 
-## Meu nome é Nicolas e meu apelido é "Nycz"!
+## Meu nome é Nicolas e meu apelido é "Nycz"! 
 
 - 🧊 Tenho 17 anos e moro em Curitiba
 - 🔭 Atualmente estou trabalhando em DigitalID
