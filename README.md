@@ -8,7 +8,6 @@
 <img src="https://media.tenor.com/G8cSIPbnpoUAAAAC/totoro-miyazaki.gif"/>
 
 # Habilidades
-• Experiência em logística utilizando o SAP
 
 • Trabalho em Equipe
 
@@ -19,8 +18,6 @@
 • Comprometimento
 
 • Sempre curioso e disposto a aprender
-
-• Inglês - B2
 
 # Linguagens e Ferramentas que eu uso:
 
