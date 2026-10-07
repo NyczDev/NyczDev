@@ -1,29 +1,38 @@
-# Hello World! 
-## Meu nome é Nicolas e meu apelido é "Nycz"! 
+<h1 align="center">Nicolas Yasumoto</h1>
+<p align="center"><b>Desenvolvedor Full Stack</b> · IDX Company · Curitiba, PR</p>
 
-- 🧊 Tenho 17 anos e moro em Curitiba
-- 🔭 Atualmente estou trabalhando em DigitalID
-- 🌱 Atualmente estou estudando Engenharia de Software na UP
+<p align="center">
+  <a href="https://www.instagram.com/nico.ycz/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
 
-<img src="https://media.tenor.com/G8cSIPbnpoUAAAAC/totoro-miyazaki.gif"/>
+## Sobre mim
 
-# Habilidades
+- 💼 Desenvolvedor Full Stack na **IDX Company**
+- 🎓 Graduando em Engenharia de Software na **Universidade Positivo**
+- 🛠️ Desenvolvo aplicações web com React e TypeScript, APIs em C# e Java, e sites em WordPress
+- 🌱 Estudando agora: padrões de projeto, arquitetura de software e desenvolvimento mobile com Kotlin
 
-• Trabalho em Equipe
+## Stack
 
-• Pro-atividade
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,html,css&theme=dark" alt="Front-end"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,kotlin,php,python&theme=dark" alt="Back-end"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mysql,wordpress,git,github,vscode,figma&theme=dark" alt="Ferramentas"/>
+</p>
 
-• Aprendizado rápido
+## Projetos em destaque
 
-• Comprometimento
+| Projeto | Descrição | Tecnologias |
+| --- | --- | --- |
+| [ByteClass](https://github.com/NyczDev/byteclass) | Sistema de gestão escolar | TypeScript |
+| [NexSprint](https://github.com/NyczDev/nexsprint) | Front-end da aplicação NexSprint | TypeScript |
+| [NexSprint Back](https://github.com/NyczDev/nexsprint-back) | API do NexSprint | C# |
+| [Padrões de Projeto](https://github.com/NyczDev/padroes-projeto-avs) | Implementações de padrões de projeto | Java |
+| [Gateway Biblioteca](https://github.com/NyczDev/trab-02pontos-gateway-biblioteca) | API gateway para sistema de biblioteca | Java |
+| [App Mobile](https://github.com/NyczDev/trab-mobilekotlin) | Aplicativo Android | Kotlin |
 
-• Sempre curioso e disposto a aprender
+## Soft skills
 
-# Linguagens e Ferramentas que eu uso:
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
-
-## Redes Sociais para Contato!
-<a href="https://www.instagram.com/yasu.nycz/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://www.instagram.com/nicolasycz/" target="_blank" rel="noopener noreferrer"><img src="	https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-                 
-          
+Trabalho em equipe · Proatividade · Aprendizado rápido · Comprometimento · Curiosidade
