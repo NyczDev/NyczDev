@@ -91,6 +91,16 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NyczDev/NyczDev/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NyczDev/NyczDev/output/github-snake.svg"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/NyczDev/NyczDev/output/github-snake-dark.svg"/>
+</picture>
+
+---
+
 ## 🔬 Foco atual
 
 ```python
